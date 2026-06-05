@@ -1,44 +1,60 @@
-# 🧩 C++ Problem-Solving Portfolio
+🧩 C++ Problem-Solving Portfolio
 
-A collection of **50+ C++ problem-solving solutions** focusing on **clean code, reusable functions, and structured programming**. This repository is aimed at beginners and intermediate learners who want to see **practical examples of C++ concepts**, such as functions, structs, arrays, loops, and basic data handling.
+A collection of 200+ C++ problem-solving solutions focusing on clean code, reusable functions, and structured programming. This repository is designed for beginners and intermediate learners who want to explore practical implementations of core C++ concepts.
 
-## 🚀 Overview
+It demonstrates consistent practice in problem-solving, algorithmic thinking, and software design fundamentals.
 
-This portfolio contains solutions to various programming problems, emphasizing:
+🚀 Overview
 
-- ✨ Writing **clean and reusable code**  
-- 🛠 Using **functions and structs** effectively  
-- 📚 Practicing **basic C++ programming concepts**  
-- 🗂 Organizing code for readability and maintainability  
+This portfolio contains solutions to a wide range of programming problems, emphasizing:
 
-It’s a great reference for students, new C++ developers, or anyone looking to improve their coding habits.
+✨ Writing clean, reusable, and modular code
+🛠 Effective use of functions and structs
+📚 Strong understanding of core C++ concepts
+🧠 Algorithmic thinking and structured problem-solving
+🗂 Well-organized and readable code structure
 
----
+It serves as a learning resource for students and developers aiming to improve their C++ skills through real examples.
 
-## 🛠️ Tech Stack
+📌 Problem Coverage
 
-- 🖥 **Language:** C++  
-- ⚙️ **Tools:** Any C++ compiler (G++, Visual Studio, Code::Blocks, etc.)  
-- 📌 **Focus Areas:** Functions, Structs, Loops, Conditional Statements, Arrays, Basic OOP concepts  
+This repository includes 200+ solved challenges, covering:
 
----
+🔢 Basic arithmetic and logic problems
+📊 Arrays and string manipulation
+🔁 Loops and conditional statements
+🧩 Functions and reusable components
+🏗 Struct-based data organization
+📁 File handling and data storage systems
+🧠 Algorithms, recursion, and dynamic programming
+📅 Date and time systems (calendar generation, validation, calculations)
 
-## 💡 Features
+🛠️ Advanced Implementations
 
-- 🏷 **50+ solved problems** covering:
-  - 🔢 Basic arithmetic & logic problems  
-  - 📊 Arrays and strings  
-  - 🔧 Functions and reusable code  
-  - 🏗 Structs for organized data  
-  - 🖨 Input/Output handling  
-  - 🧩 Simple problem-solving patterns
-- 📏 Each solution demonstrates **clean code practices**:
-  - 📝 Proper indentation  
-  - 🏷 Meaningful variable names  
-  - 🔧 Reusable functions and modular design  
-  - 💬 Comments explaining the logic
+This project also demonstrates more advanced problem-solving topics such as:
 
----
+📅 Calendar generation system
+🎂 Age calculation based on date input
+✔ Date validation and custom date arithmetic
+⚙ Optimization of logic and debugging techniques
+🧠 Recursive and dynamic programming solutions
+💡 Key Highlights
+✔ 200+ solved programming challenges
+✔ Focus on clean code and maintainability
+✔ Practical implementation of real-world logic problems
+✔ Continuous improvement in problem-solving skills
+✔ Published on GitHub to track learning progress
+🛠️ Tech Stack
+🖥 Language: C++
+⚙️ Standard Library: STL
+🧠 Concepts: Algorithms, Recursion, Dynamic Programming
+📁 File Handling: Basic data storage and retrieval systems
+🛠 Tools: G++, Visual Studio, Code::Blocks
+📈 Purpose
 
-## 📂 Folder Structure (Recommended)
+This repository is created to:
 
+Strengthen problem-solving skills in C++
+Build strong foundations in algorithms and data structures
+Practice writing clean, reusable, and efficient code
+Showcase continuous learning and development progress
